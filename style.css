@@ -3,3 +3,15 @@
  * Adding HTML to the DOM
  * Jackie Valconcha
  */
+
+ body{
+     font-family: Arial, Helvetica, sans-serif;
+ }
+
+ div.box{
+     width: 200px;
+     height: 200px;
+     border: 1px solid #000;
+     padding: 5px;
+     background-color: #9fb4f2;
+ }
